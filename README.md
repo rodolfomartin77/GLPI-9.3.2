@@ -27,7 +27,7 @@ gpgcheck=1
 -----------------------------------------------------------------------------------------------------------------------------
 Requerimientos: Debes tener instalado git para descargar este repositorio: sudo yum -y instalar git
 
-Descargar el script: git clone https://github.com/dsegurag/centos-glpi.git
+Descargar el script: git clone https://github.com/rodolfomartin77/GLPI-9.3.2
 
 Posteriormente ingrese: cd centos-glpi
 
