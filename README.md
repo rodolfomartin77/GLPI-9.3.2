@@ -1,5 +1,3 @@
-glpi-9.3.2
-
 GLPI 9.3.2 en Centos 7
 
 Una forma sencilla de instalar GLPI en CentOS 7.
