@@ -25,7 +25,7 @@ gpgkey=https://yum.mariadb.org/RPM-GPG-KEY-MariaDB
 gpgcheck=1
 
 -----------------------------------------------------------------------------------------------------------------------------
-Requerimientos: Debes tener instalado git para descargar este repositorio: sudo yum -y instalar git
+Requerimientos: Debes tener instalado git para descargar este repositorio: sudo yum -y install git
 
 Descargar el script: git clone https://github.com/rodolfomartin77/GLPI-9.3.2
 
